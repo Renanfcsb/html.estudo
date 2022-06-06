@@ -1,0 +1,24 @@
+.quadrado{
+    background-color: brown;
+    color: aliceblue;
+    width: 317px;
+    height: 300px;
+    text-align: center;
+    ;
+}
+
+.quadradoo{
+    background-color: rgb(189, 189, 189);
+    color: rgba(120, 112, 120,);
+    width: auto;
+    height: auto;
+    text-align: center
+    ;
+}
+
+
+
+.centro{
+    margin-top: 150px;
+    ;
+}
